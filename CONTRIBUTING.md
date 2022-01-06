@@ -2,7 +2,7 @@
 
 Thank you for investing your time in contributing to our project!
 
-Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
+Read our [Code of Conduct](https://scientific-python.org/code_of_conduct/) to keep our community approachable and respectable.
 
 If you haven't already, come find us in [here](https://discuss.scientific-python.org/). We want you working on things you're excited about.
 
